@@ -1,0 +1,27 @@
+{
+  "name": "softgames-sample",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/howler": "^2.1.1",
+    "@types/lodash": "^4.14.137",
+    "howler": "^2.1.2",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  },
+  "dependencies": {
+    "@types/pixi.js": "^4.8.9",
+    "lodash": "^4.17.15",
+    "pixi.js": "^5.1.5"
+  }
+}
